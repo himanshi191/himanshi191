@@ -1,4 +1,32 @@
+<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓗𝓲𝓶𝓪𝓷𝓼𝓱𝓲 𝓖𝓾𝓹𝓽𝓪</h1>
 
+<h3 align="center">Data Analyst • Python • SQL • Machine Learning</h3>
+
+<p align="center">
+Turning <b>Data</b> into meaningful <b>Insights</b> and transforming <b>Information</b> into <b>Impact</b>.
+</p>
+
+---
+
+🌟 Passionate about exploring data and uncovering hidden patterns  
+📊 Building end-to-end data analysis and machine learning projects  
+🎓 MSc Mathematics with Data Science  
+📍 Bulandshahr, Uttar Pradesh, India  
+
+💡 I enjoy working with real-world datasets and creating solutions that combine analytical thinking with practical problem solving.
+
+---
+
+### 🚀 My Focus
+
+• Data Analysis  
+• Data Visualization  
+• Machine Learning  
+• Business Insights  
+
+---
+
+⭐ *"Data becomes powerful when it tells a meaningful story."*
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.himanshi19.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/himanshigupta-data/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshig191@gmail.com) 
 
