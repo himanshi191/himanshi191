@@ -11,7 +11,7 @@ Turning <b>Data</b> into meaningful <b>Insights</b> and transforming <b>Informat
 🌟 Passionate about exploring data and uncovering hidden patterns  
 📊 Building end-to-end data analysis and machine learning projects  
 🎓 MSc Mathematics with Data Science  
-📍 Bulandshahr, Uttar Pradesh, India  
+📍 Uttar Pradesh, India  
 
 💡 I enjoy working with real-world datasets and creating solutions that combine analytical thinking with practical problem solving.
 
